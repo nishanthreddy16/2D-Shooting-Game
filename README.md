@@ -1,2 +1,12 @@
-# 2D-Shooting-Game
-Created a simple 2D shooting game using Python and Pygame, featuring player movement, bullet firing, enemy spawning, and score tracking with interactive graphics and sound effects.
+Space Shooter Game
+
+A 2D Space Shooter built with Python and Pygame. Control your spaceship, shoot enemies, avoid missing too many, and aim for a high score!
+
+Features
+	•	Move left/right with arrow keys
+	•	Shoot bullets with Spacebar
+	•	Randomly spawning enemies
+	•	Levels with increasing difficulty
+	•	Score tracking and timer
+	•	Pause/Resume (P key)
+	•	Background music & sound effects
